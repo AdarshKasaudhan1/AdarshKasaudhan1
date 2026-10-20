@@ -10,7 +10,7 @@
   <a href="https://github.com/AdarshKasaudhan1/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00f5d4" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/adarsh-kasaudhan-a868972bb/">
+  <a href="https://www.linkedin.com/in/adarsh-kasaudhan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:kadarshbca24@ced.alliance.edu.in">
@@ -118,7 +118,7 @@
 ---
 
 <p align="center">
-  <i>⚡ "Translating raw models into production intelligence." — Feel free to explore my repos or reach out on <a href="https://www.linkedin.com/in/adarsh-kasaudhan-a868972bb/">LinkedIn</a>!</i>
+  <i>⚡ "Translating raw models into production intelligence." — Feel free to explore my repos or reach out on <a href="https://www.linkedin.com/in/adarsh-kasaudhan/">LinkedIn</a>!</i>
 </p>
 
 <p align="center">
