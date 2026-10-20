@@ -57,7 +57,7 @@
 
 **Core Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
 **AI / Machine Learning / Agentic Systems**
