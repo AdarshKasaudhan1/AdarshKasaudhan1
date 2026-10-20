@@ -22,8 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdarshKasaudhan1&style=for-the-badge&color=00f5d4&label=PROFILE+VIEWS&v=2" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/AdarshKasaudhan1?style=for-the-badge&color=00F5D4&labelColor=0d1117" alt="Followers">
+  <img src="https://img.shields.io/badge/Focus-Agentic_AI_%26_LLMs-6e40c9?style=for-the-badge&logo=probot&labelColor=0d1117" alt="Focus">
+  <img src="https://img.shields.io/github/followers/AdarshKasaudhan1?style=for-the-badge&color=00F5D4&logo=github&labelColor=0d1117" alt="Followers">
+  <img src="https://img.shields.io/badge/Status-Actively_Building-00d2ff?style=for-the-badge&logo=rocket&labelColor=0d1117" alt="Status">
 </p>
 
 ---
