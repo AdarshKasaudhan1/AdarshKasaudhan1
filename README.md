@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:6e40c9,70:00d2ff,100:00f5d4&height=220&section=header&text=Adarsh%20Kasaudhan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Agentic%20Systems%20%7C%20Full-Stack%20Engineer%20%7C%20BCA%20(AI%20%26%20ML)&descAlignY=58&descSize=19" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:6e40c9,70:00d2ff,100:00f5d4&height=220&section=header&text=Adarsh%20Kasaudhan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Agentic%20Systems%20%7C%20Full-Stack%20Engineer%20%7C%20BCA%20(AI%20%26%20ML)&descAlignY=58&descSize=19&v=2" width="100%"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdarshKasaudhan1&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=AdarshKasaudhan1&style=for-the-badge&color=00f5d4&label=PROFILE+VIEWS&v=2" alt="Profile views">
   <img src="https://img.shields.io/github/followers/AdarshKasaudhan1?style=for-the-badge&color=00F5D4&labelColor=0d1117" alt="Followers">
 </p>
 
@@ -93,19 +93,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshKasaudhan1&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdarshKasaudhan1&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
-### 📈 Activity & Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshKasaudhan1&theme=tokyo-night&hide_border=true" />
-</p>
-
-<h4 align="center">🐍 Interactive Contribution Grid</h4>
+<h3 align="center">🐍 Interactive Contribution Grid</h3>
 
 <p align="center">
   <picture>
